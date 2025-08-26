@@ -1,6 +1,3 @@
-# grpo-reasoncheck
-Training a reasoning-focused LLM using GRPO with final-answer verification to improve chain-of-thought accuracy.
-
 # LLM Reasoning with GRPO
 
 This repository reproduces the approach described in the transcript: using **Group Relative Policy Optimization (GRPO)** — a GRPO variant of PPO — to teach a language model to produce longer, more accurate chains of thought.
